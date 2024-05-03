@@ -49,5 +49,10 @@ public class ServiceUser {
     public void modificarFicheroUsers() {
         gestionUser.modificarFichero(this.users, this.ruta);
     }
+    public boolean Altausuario(User usuario){
+
+
+        return false;
+    }
 
 }
